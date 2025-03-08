@@ -29,7 +29,7 @@ A methodology and supporting tools for analyzing software dependencies and third
 
 ## Publications & Research
 
-- **[Detecting Adversarial Machine Learning Attacks in Production Systems](https://example.com)** - Research paper on novel detection techniques for AI-targeted attacks
+- Network Security (https://github.com/Teks405/Network-Security-/blob/main/README.md)
 - **[Zero Trust Implementation Strategies for Legacy Environments](https://example.com)** - Framework for implementing zero trust architecture in organizations with legacy infrastructure
 - **[Post-Quantum Cryptography: Practical Implementation Guide](https://example.com)** - Step-by-step guide for organizations preparing for quantum computing threats
 
